@@ -1,0 +1,21 @@
+{
+	"editor.formatOnSave": true,
+	"git.ignoreLimitWarning": true,
+	"python.analysis.typeCheckingMode": "basic",
+	"editor.wordWrapColumn": 88,
+	"editor.wordWrap": "wordWrapColumn",
+	"python.analysis.extraPaths": [
+		"notebooks"
+	],
+	"material-icon-theme.files.associations": {},
+	"material-icon-theme.folders.associations": {
+		"notebooks": "Src",
+		"leaderboard": "Stack",
+		"submissions": "Upload",
+		"migrations": "tools"
+	},
+	"python.analysis.autoSearchPaths": false,
+	"[python]": {
+		"editor.defaultFormatter": "ms-python.black-formatter"
+	}
+}
