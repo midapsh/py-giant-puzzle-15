@@ -6,8 +6,13 @@ from functions import (
 
 
 def main():
+    print("Solve (a)")
     solve_a()
+
+    print("Solve (b)")
     solve_b()
+
+    print("Solve (c)")
     solve_c()
 
 
